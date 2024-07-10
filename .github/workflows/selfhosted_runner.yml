@@ -1,9 +1,9 @@
 name: Buildig the code by using self-hosted runner
 
 on:
-  push:
-    branches:
-      - main
+  #push:
+   # branches:
+    #  - main
   workflow_dispatch:
 
 jobs:
