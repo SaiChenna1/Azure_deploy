@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: EC2-runner
+    runs-on: demo-runner
 
     steps:
       - uses: actions/checkout@v4
